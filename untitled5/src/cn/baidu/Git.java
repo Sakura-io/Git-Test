@@ -5,5 +5,13 @@ public class Git {
         System.out.println("1111111111111111");
         System.out.println("1111111111111111");
         System.out.println("1111111111111111");
+        test();
+
+    }
+
+    public static void test(){
+        int a=10;
+        int b=a+10;
+        System.out.println(b);
     }
 }
